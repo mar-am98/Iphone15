@@ -9,7 +9,7 @@ import HowItWorks from "../components/HowItWorks";
 
 const App = () => {
   return (
-    <main className="bg-black h-full">
+    <main className="bg-black min-h-screen">
       <Navbar />
       <Hero />
       <Slider />

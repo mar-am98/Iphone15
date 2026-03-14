@@ -23,7 +23,7 @@ export default function Slider(){
          <section className="w-screen overflow-hidden h-full common-padding bg-zinc">
                 <div className="screen-max-width">
                     {/* titles */}
-                    <div className="mb-12 flex justify-between items-center">
+                    <div className="mb-12 flex justify-between items-center max-sm:flex-col">
                         <h2 id="title" className="section-heading"> Get The Highlights</h2>
 
                         <div className="flex flex-wrap items-end gap-5 mt-4">

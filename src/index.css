@@ -12,7 +12,7 @@ body {
   color: white;
   width: 100dvw;
   overflow-x: hidden;
-  height: 100%;
+  min-height: 100vh;
   background: #000;
   border-color: #3b3b3b;
   user-select: none;
@@ -22,7 +22,7 @@ body {
 
 
 canvas {
-  touch-action: none;
+  /* touch-action: none; */
 }
 
 .screen-max-width {
